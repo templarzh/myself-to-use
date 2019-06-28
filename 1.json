@@ -1,0 +1,29 @@
+{
+  "Enabled": true,
+  "StartOnLaunch": true,
+  "SteamLogin": "zhaohang713",
+  "SteamPassword": "zh13952509896",
+  "SteamParentalPIN": "0",
+  "SteamApiKey": null,
+  "SteamMasterID": 0,
+  "SteamMasterClanID": 0,
+  "CardDropsRestricted": false,
+  "DismissInventoryNotifications": true,
+  "FarmOffline": true,
+  "HandleOfflineMessages": false,
+  "AcceptGifts": false,
+  "IsBotAccount": false,
+  "SteamTradeMatcher": false,
+  "ForwardKeysToOtherBots": false,
+  "DistributeKeys": false,
+  "UseAsfAsMobileAuthenticator": false,
+  "ShutdownOnFarmingFinished": false,
+  "SendOnFarmingFinished": false,
+  "SteamTradeToken": null,
+  "SendTradePeriod": 0,
+  "AcceptConfirmationsPeriod": 0,
+  "CustomGamePlayedWhileIdle": null,
+  "GamesPlayedWhileIdle": [
+    0
+  ]
+}
